@@ -1,6 +1,6 @@
 
 [brick]
-chplVersion = "1.25.0"
+chplVersion = "1.27.0"
 license = "None"
 name = "myMasonPackage"
 type="application"
